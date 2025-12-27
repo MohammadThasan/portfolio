@@ -1,18 +1,30 @@
 ---
 layout: page
 title: Projects
+permalink: /projects/
 ---
 
-## 🚀 Key Data & BI Projects
+## 🚀 Key Data & AI Projects
 
 ### 📊 Nordic Reporting Gateway
-[cite_start]Designed and implemented a centralized reporting gateway to streamline regional data access.
-* [cite_start]**Tools:** Power BI, SQL, Azure Synapse[cite: 16, 32].
+Designed and implemented a centralized reporting system to streamline financial data access across the Nordic region.
+* **Tech:** SQL, Azure Synapse, Power BI.
 
 ### 🤖 Volume Validation Tool
-[cite_start]Built an automated validation engine to ensure high data accuracy (95%+) in sales reporting[cite: 14, 36].
-* [cite_start]**Tools:** Python, MS Power Automate, SQL[cite: 32].
+Built an automated validation engine to ensure high data accuracy in sales reporting, reducing manual audit time significantly.
+* **Tech:** Python, SQL, MS Power Automate.
 
 ### 📈 Finance Reporting Model
-[cite_start]Developed a robust financial model for variance analysis and budgeting[cite: 36, 45].
-* [cite_start]**Tools:** Excel (DAX), SSAS, Power Pivot[cite: 21, 46].
+Developed a robust financial model for variance analysis and budgeting for large-scale operations.
+* **Tech:** Excel (DAX), SSAS, Power Pivot.
+
+### ⚙️ Real-time ETL Pipeline
+Modernized legacy data workflows by migrating to Azure Data Factory and Databricks.
+* **Tech:** Azure Data Factory, Databricks, PySpark.
+
+---
+
+### 📜 Certifications
+* **AZ-104:** Microsoft Azure Administrator
+* **SQL Server:** Querying Microsoft SQL Server (70-461, 761)
+* **Data Science:** Machine Learning Bootcamp with R
