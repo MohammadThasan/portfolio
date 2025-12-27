@@ -1,0 +1,21 @@
+title: Mohammad Hasan
+logo: /assets/img/profile.png # Optional: Add a profile photo to this path later
+description: >-
+  BI/Data Analyst & Data Engineer specializing in AI-driven automation, 
+  ETL pipelines, and predictive modeling. Experienced in Azure Cloud, 
+  MS Fabric, and Databricks.
+show_downloads: true
+google_analytics: # Add your UA-XXXXXXXXX-X code if you have one
+theme: jekyll-theme-minimal
+
+# Personal Info for SEO and Sidebar
+email: mtuhinur.hasan@gmail.com
+twitter_username: 
+github_username: your-github-username
+linkedin_username: mtuhinurhasan
+
+# Professional Skills Highlight
+skills:
+  - Data Analysis: [SQL, Python, R, Excel]
+  - Visualisation: [Power BI, Tableau, Qlik Sense]
+  - Platforms: [Azure, MS Fabric, Databricks]
