@@ -1,11 +1,11 @@
 # Professional Summary
-[cite_start]Driven data analyst with a passion for turning numbers into insights that move the business forward[cite: 61]. [cite_start]Specialized in SQL, Databricks, Snowflake, Python, and Microsoft Fabric[cite: 62]. [cite_start]I focus on improving data accuracy and leveraging AI tools for automation and trend analysis[cite: 6, 25].
+Driven data analyst with a passion for turning numbers into insights that move the business forward[cite: 61]. [cite_start]Specialized in SQL, Databricks, Snowflake, Python, and Microsoft Fabric[cite: 62]. [cite_start]I focus on improving data accuracy and leveraging AI tools for automation and trend analysis[cite: 6, 25].
 
 ## 🛠️ Technical Toolkit
-* [cite_start]**Data Engineering:** ETL/ELT, SSIS, Azure Data Factory, MS Fabric, Databricks[cite: 12, 31, 47].
-* [cite_start]**BI & Analytics:** Power BI, Tableau, QlikView, Qlik Sense[cite: 44].
-* [cite_start]**Languages:** SQL, Python, R[cite: 43].
-* [cite_start]**Cloud:** Azure Cloud (AZ-104 certified)[cite: 47, 50].
+**Data Engineering:** ETL/ELT, SSIS, Azure Data Factory, MS Fabric, Databricks[cite: 12, 31, 47].
+**BI & Analytics:** Power BI, Tableau, QlikView, Qlik Sense[cite: 44].
+**Languages:** SQL, Python, R[cite: 43].
+**Cloud:** Azure Cloud (AZ-104 certified)[cite: 47, 50].
 
 ## 💼 Featured Experience
 **Data Analyst (Consultant)** | [cite_start]Funnel Pro (July 2025 – Present) [cite: 8]
