@@ -1,9 +1,7 @@
 title: Mohammad Hasan
 logo: /assets/img/profile.png # Optional: Add a profile photo to this path later
 description: >-
-  BI/Data Analyst & Data Engineer specializing in AI-driven automation, 
-  ETL pipelines, and predictive modeling. Experienced in Azure Cloud, 
-  MS Fabric, and Databricks.
+  BI/Data Analyst & Data Engineer specializing in AI-driven automation.
 show_downloads: true
 google_analytics: # Add your UA-XXXXXXXXX-X code if you have one
 theme: jekyll-theme-minimal
