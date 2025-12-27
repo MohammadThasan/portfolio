@@ -1,18 +1,30 @@
 # Professional Summary
-Driven data analyst with a passion for turning numbers into insights that move the business forward[cite: 61]. [cite_start]Specialized in SQL, Databricks, Snowflake, Python, and Microsoft Fabric[cite: 62]. [cite_start]I focus on improving data accuracy and leveraging AI tools for automation and trend analysis[cite: 6, 25].
+Driven data analyst with a passion for turning numbers into insights that move the business forward. Experienced with SQL, Databricks, Snowflake, Python, Azure Cloud, Microsoft Fabric, and BI tools. Known for improving data accuracy, simplifying reporting, and leveraging AI to drive innovation and automation.
 
-## 🛠️ Technical Toolkit
-**Data Engineering:** ETL/ELT, SSIS, Azure Data Factory, MS Fabric, Databricks[cite: 12, 31, 47].
-**BI & Analytics:** Power BI, Tableau, QlikView, Qlik Sense[cite: 44].
-**Languages:** SQL, Python, R[cite: 43].
-**Cloud:** Azure Cloud (AZ-104 certified)[cite: 47, 50].
+## 🛠️ Technical Skills
+* **Data Analysis:** SQL, Python, R, Excel (DAX, Power Query)
+* **Visualization:** Power BI, Tableau, QlikView, Qlik Sense, Power Platform
+* **Data Engineering:** Data Warehousing, ETL, SSIS, SSAS, MS Fabric, Databricks
+* **Cloud:** Azure Cloud (AZ-104 Certified), Snowflake, Oracle Cloud
 
-## 💼 Featured Experience
-**Data Analyst (Consultant)** | [cite_start]Funnel Pro (July 2025 – Present) [cite: 8]
-* [cite_start]Managing data workflows, ETL processes, and analysis using Power BI and MS Fabric[cite: 8, 9].
+## 💼 Work Experience
 
-**Data Analyst - BI (Financial Planning & Analysis)** | [cite_start]Unilever (2022 – 2025) [cite: 10]
-* [cite_start]Automated Power BI dashboards, increasing decision-making speed by 30%[cite: 10].
-* [cite_start]Optimized data retrieval processes by 30% using Databricks and SQL-based pipelines[cite: 12].
+### **Data Analyst (Consultant/Freelance)** | Funnel Pro  
+*July 2025 – Present*
+- Managing data workflows, ETL processes, analysis, and modeling using Power BI, SQL, and MS Fabric.
 
-[View Full Resume](./resume.md) | [Explore Projects](./projects.md)
+### **Data Analyst - BI (Financial Planning & Analysis)** | Unilever  
+*June 2022 – June 2025*
+- Automated Power BI dashboards, increasing decision-making speed by 30%.
+- Built ETL pipelines using SSIS and Databricks, improving query efficiency by 30%.
+- Maintained 95%+ data accuracy by enhancing Salesforce and Power BI integrations.
+
+### **Data Analyst (BI Developer)** | Telia Company  
+*Oct 2021 – May 2022*
+- Developed BI reports for B2C verticals and led KPI-driven analysis.
+- Implemented ETL processes on Qlik platforms to optimize workflow efficiency.
+
+## 🎓 Education
+* **MSc in Economics of Innovation and Growth** – Royal Institute of Technology (KTH)
+* **MBA (Management)** – Blekinge Institute of Technology (BTH)
+* **Business Intelligence Analyst** – Nackademin
