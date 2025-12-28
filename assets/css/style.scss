@@ -1,1 +1,52 @@
+---
+---
+@import "{{ site.theme }}";
 
+// --- Custom Variables ---
+$bg-gradient: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+$accent-teal: #2dd4bf;
+$glass-bg: rgba(255, 255, 255, 0.03);
+
+body {
+  background: $bg-gradient;
+  background-attachment: fixed;
+  color: #e2e8f0; // Soft white for readability
+  font-family: 'Inter', -apple-system, sans-serif;
+}
+
+// --- Sidebar/Header Polish ---
+header {
+  border-right: 1px solid rgba(255, 255, 255, 0.1);
+  h1 a { color: $accent-teal !default; }
+  p { color: #94a3b8; }
+}
+
+// --- Modern Section Styling ---
+section {
+  background: $glass-bg;
+  padding: 2rem;
+  border-radius: 12px;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+// --- Colorful Skill Tags ---
+code {
+  background-color: rgba(45, 212, 191, 0.1);
+  color: $accent-teal;
+  padding: 4px 8px;
+  border-radius: 6px;
+  border: 1px solid rgba(45, 212, 191, 0.3);
+}
+
+// --- Professional Links ---
+a {
+  color: $accent-teal;
+  text-decoration: none;
+  transition: 0.3s;
+  &:hover {
+    color: #5eead4;
+    text-shadow: 0 0 10px rgba(45, 212, 191, 0.5);
+  }
+}
