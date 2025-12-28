@@ -1,4 +1,34 @@
+# Mohammad Hasan
+### **Data Engineer | BI Specialist | AI Enthusiast**
+
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) 
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+
 ---
+
+## 🏗️ Data Architecture Experience
+I transform complex datasets into scalable cloud solutions. With a Master's from **KTH**, I focus on the intersection of **Business Intelligence** and **Modern Data Stacks**.
+
+
+
+### 🛡️ High-Impact Achievements
+* **Unilever:** Engineered ETL pipelines in **Databricks** that increased query performance by **30%**.
+* **Funnel Pro:** Architected end-to-end data flows using **MS Fabric** for real-time strategic modeling.
+* **Telia:** Optimized Qlik-based ETL processes, reducing data refresh latency across B2C verticals.
+
+---
+
+## 🛠️ Tech Stack Matrix
+
+| Engineering | Visualization | AI & Scripting |
+| :--- | :--- | :--- |
+| `MS Fabric` `SSIS` | `Power BI` `Tableau` | `Python` `R` |
+| `Databricks` `ADF` | `Qlik Sense` `D3.js` | `OpenAI API` `MLOps` |
+
+---
+[Contact Me via LinkedIn](https://linkedin.com/in/mtuhinurhasan)---
 layout: default
 title: Mohammad Hasan | Data Engineer & AI Specialist
 ---
