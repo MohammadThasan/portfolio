@@ -1,30 +1,41 @@
-# Professional Summary
-Driven data analyst with a passion for turning numbers into insights that move the business forward. Experienced with SQL, Databricks, Snowflake, Python, Azure Cloud, Microsoft Fabric, and BI tools. Known for improving data accuracy, simplifying reporting, and leveraging AI to drive innovation and automation.
+---
+layout: default
+title: Mohammad Hasan | Data Engineer & AI Specialist
+---
 
-## 🛠️ Technical Skills
-* **Data Analysis:** SQL, Python, R, Excel (DAX, Power Query)
-* **Visualization:** Power BI, Tableau, QlikView, Qlik Sense, Power Platform
-* **Data Engineering:** Data Warehousing, ETL, SSIS, SSAS, MS Fabric, Databricks
-* **Cloud:** Azure Cloud (AZ-104 Certified), Snowflake, Oracle Cloud
+# Mohammad Hasan
+### **BI / Data Analyst & Data Engineer**
+**Bridging the gap between Raw Data, Cloud Infrastructure, and AI Insights.**
 
-## 💼 Work Experience
+Stockholm, Sweden | [LinkedIn](https://linkedin.com/in/mtuhinurhasan) | mtuhinur.hasan@gmail.com
 
-### **Data Analyst (Consultant/Freelance)** | Funnel Pro  
+---
+
+## 🚀 Professional Profile
+I am a Data Engineer and BI Specialist with a Master’s from **KTH** and an MBA. I specialize in building robust ETL pipelines and AI-driven automation. My work at **Unilever** and **Telia** focused on migrating legacy systems to modern cloud stacks (**Azure, Databricks, MS Fabric**) and reducing latency in business decision-making by up to 30%.
+
+## 🛠️ Technical Ecosystem
+
+
+| **Data Engineering** | **Analytics & AI** | **Cloud & DevOps** |
+| :--- | :--- | :--- |
+| ETL/ELT (SSIS, ADF) | Power BI (Advanced DAX) | Azure Cloud (AZ-104) |
+| Databricks / PySpark | Python (Pandas, Scikit-learn) | MS Fabric & Synapse |
+| SQL Server / Snowflake | Machine Learning with R | Docker & Automation |
+
+---
+
+## 💼 High-Impact Experience
+
+### **Data Analyst (Consultant)** | Funnel Pro
 *July 2025 – Present*
-- Managing data workflows, ETL processes, analysis, and modeling using Power BI, SQL, and MS Fabric.
+- Architecting end-to-end data workflows using **MS Fabric** and **Azure Data Factory**.
+- Transforming unstructured data into actionable strategic models for high-growth clients.
 
-### **Data Analyst - BI (Financial Planning & Analysis)** | Unilever  
+### **Data Analyst - FP&A** | Unilever
 *June 2022 – June 2025*
-- Automated Power BI dashboards, increasing decision-making speed by 30%.
-- Built ETL pipelines using SSIS and Databricks, improving query efficiency by 30%.
-- Maintained 95%+ data accuracy by enhancing Salesforce and Power BI integrations.
+- **The Impact:** Improved query efficiency by **30%** by migrating workflows to **Databricks**.
+- **Automation:** Developed AI-enhanced validation tools that ensured **95%+ data accuracy** across Salesforce and Power BI integrations.
+- **Leadership:** Led the "Nordic Reporting Gateway" project, centralizing financial truth for the region.
 
-### **Data Analyst (BI Developer)** | Telia Company  
-*Oct 2021 – May 2022*
-- Developed BI reports for B2C verticals and led KPI-driven analysis.
-- Implemented ETL processes on Qlik platforms to optimize workflow efficiency.
-
-## 🎓 Education
-* **MSc in Economics of Innovation and Growth** – Royal Institute of Technology (KTH)
-* **MBA (Management)** – Blekinge Institute of Technology (BTH)
-* **Business Intelligence Analyst** – Nackademin
+[View Detailed Resume](./resume.md) | [Explore Technical Projects](./projects.md)
