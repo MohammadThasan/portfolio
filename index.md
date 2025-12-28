@@ -3,7 +3,6 @@ layout: default
 title: Mohammad Hasan | Data Engineer & AI Specialist
 ---
 
-# Mohammad Hasan
 ### **BI / Data Analyst & Data Engineer**
 **Bridging the gap between Raw Data, Cloud Infrastructure, and AI Insights.**
 
@@ -40,10 +39,6 @@ I am a Data Engineer and BI Specialist with a Master’s from **KTH** and an MBA
 
 [View Detailed Resume](./resume.md) | [Explore Technical Projects](./projects.md)
 
----
-layout: page
-title: Technical Projects
-permalink: /projects/
 ---
 
 ## 🛠️ Engineering & AI Showcase
