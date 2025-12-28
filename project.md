@@ -1,30 +1,32 @@
 ---
 layout: page
-title: Projects
+title: Technical Projects
 permalink: /projects/
 ---
 
-## 🚀 Key Data & AI Projects
+## 🛠️ Engineering & AI Showcase
 
-### 📊 Nordic Reporting Gateway
-Designed and implemented a centralized reporting system to streamline financial data access across the Nordic region.
-* **Tech:** SQL, Azure Synapse, Power BI.
+### 1. Nordic Reporting Gateway (Enterprise ETL)
+*An end-to-end cloud migration and reporting project.*
+- **Problem:** Fragmented financial data across Nordic regions causing 2-day delays in reporting.
+- **Solution:** Built a centralized hub using **Azure Synapse** and **SQL Server**. 
+- **Tech Stack:** Azure, SQL, Power BI, SSIS.
+- **Result:** Real-time visibility and 100% elimination of manual data consolidation.
 
-### 🤖 Volume Validation Tool
-Built an automated validation engine to ensure high data accuracy in sales reporting, reducing manual audit time significantly.
-* **Tech:** Python, SQL, MS Power Automate.
+### 2. AI Volume Validation Tool
+*Using Python to automate data integrity.*
+- **The Project:** Created a tool to cross-validate massive sales volumes against historical trends to find anomalies.
+- **Tech Stack:** **Python**, MS Power Automate, Scikit-learn (for anomaly detection).
+- **Result:** Reduced audit time from hours to seconds with an AI-driven "flagging" system.
 
-### 📈 Finance Reporting Model
-Developed a robust financial model for variance analysis and budgeting for large-scale operations.
-* **Tech:** Excel (DAX), SSAS, Power Pivot.
-
-### ⚙️ Real-time ETL Pipeline
-Modernized legacy data workflows by migrating to Azure Data Factory and Databricks.
-* **Tech:** Azure Data Factory, Databricks, PySpark.
+### 3. Real-Time Finance Reporting Model
+*High-performance modeling for VP-level decision making.*
+- **Tech Stack:** SSAS (Tabular), DAX, Power Pivot.
+- **Achievement:** Handled millions of rows with sub-second response times for variance analysis.
 
 ---
 
-### 📜 Certifications
-* **AZ-104:** Microsoft Azure Administrator
-* **SQL Server:** Querying Microsoft SQL Server (70-461, 761)
-* **Data Science:** Machine Learning Bootcamp with R
+## 📜 Professional Certifications
+- **Microsoft Certified: Azure Administrator Associate (AZ-104)**
+- **Querying Microsoft SQL Server (70-461 & 761)**
+- **Data Science & Machine Learning Bootcamp (R focus)**
